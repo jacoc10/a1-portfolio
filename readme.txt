@@ -56,7 +56,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
     W3 schools was very useful in understanding lots of the syntax and properties of html tags. Very helpful with CSS as it was the most difficult to do and layout my page.
     https://www.w3schools.com/css/default.asp
     https://www.w3schools.com/html/default.asp
-    just looking through the pages like HTML semantics or CSS image styling gave me concrete examples.
+    Just looking through the pages like HTML semantics or CSS image styling gave me concrete examples.
     
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
@@ -64,5 +64,4 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 7. Is there anything special we need to know in order to run your code?
 
-    I included all the files needed to run inside the folder which means theres a some additional jpgs, webps, and pngs. Put it in the same folder which allowed me to use relative
-    references. 
+    I included all the files needed to run inside the folder which means theres a some additional jpgs, webps, and pngs. Put it in the same folder which allowed me to use relative references. 
