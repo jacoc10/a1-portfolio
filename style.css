@@ -1,0 +1,186 @@
+h3 {
+    color: rgb(190, 0, 0);
+    padding-left: 0.625em;
+}
+
+h1 {
+    color: rgb(190, 0, 0);
+    font-size: 3em;
+}
+
+h2 {
+    display: inline-block;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    color: rgb(190, 0, 0);
+    margin-left: 1.25em;
+    font-weight: bold;
+    padding-right: 0.625em;
+    gap: 1.25em;
+}
+
+body {
+    background-color: #5a6ac4;
+    font-family: "Bitter", Georgia;
+    color: rgb(190, 0, 0);
+}
+
+header {
+    display: flex;
+    background-color: rgb(153, 152, 152);
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 0.625em;
+    width: 100%;
+    height: 3.125em;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.selfie {
+    border-radius: 0.625em;
+    width: 18.75em;
+    height: 25em;
+    object-fit: fill;
+    border: 0.25em solid rgb(153, 152, 152);
+}
+
+.logo {
+    display: flex;
+    border-radius: 0.625em;
+    width: 8.75em;
+    height: 12.5em;
+    object-fit: fill;
+    object-position: bottom left;
+}
+
+.text-box {
+    text-align: center;
+    display: inline-block;
+    background-color: rgb(153, 152, 152);
+    border-radius: 2.5em;
+    width: 40%;
+    border: 0.625em solid rgb(153, 152, 152);
+}
+
+section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 3.125em;
+}
+
+.minitext {
+    font-size: .9em;
+    color: rgb(190, 0, 0);
+}
+
+.footer-nav {
+    margin-top: 6.25em;
+    justify-content: center;
+    gap: 8em;
+    font-size: 2em;
+    border-radius: 0.625em;
+}
+
+.footer-nav a {
+    background-color: rgb(153, 152, 152);
+    padding: 0.625em;
+    border-radius: 1.875em;
+    border: 0.625em solid rgb(153, 152, 152);
+}
+
+a:hover {
+    color: yellow;
+}
+
+.nav-current {
+    color: rgb(255, 51, 51);
+}
+
+.photo {
+    border-radius: 0.625em;
+    border: 0.25em solid rgb(153, 152, 152);
+    object-fit: cover;
+}
+
+.dog {
+    display: block;
+    margin:auto;
+    border-radius: 0.625em;
+    border: 0.625em solid rgb(153, 152, 152);
+    object-fit: cover;
+    margin-top: 6.25em;
+    max-height: 70%;
+    max-width: 70%;
+}
+
+.footer-contact {
+    display:flex;
+    margin-top: 6.25em;
+    justify-content: center;
+    gap: 15em;
+    border-radius: 0.625em;
+}
+
+.icon {
+    width: 9.375em;
+    height: 9.375em;
+}
+
+.icon:hover {
+   opacity: 0.5;
+}
+
+.project {
+    border-radius: 0.9375em;
+    border: 0.25em solid yellow;
+    object-fit: cover;
+    width: 25em;
+    height: 28.125em;
+}
+
+.stack {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 1.25em;
+}
+
+.title {
+    padding-top: 0.625em;
+    padding-left: 2.5em;
+}
+
+.text-exp {
+    text-align: center;
+    background-color: white;
+    border-radius: 1.25em;
+    border: 0.4em solid yellow;
+    max-width: 43.75em;
+}
+
+.cut {
+    height: 0.4em;
+    background-color: rgb(153, 152, 152);
+}
+
+.expsection {
+    border: 0.3em solid rgb(190, 0, 0);
+    border-radius: 1.25em;
+    height: 34.375em;
+}
+
+.schools {
+    display: flex;
+    flex-direction: row;
+    border-radius: 1.25em;
+    border: 0.4em solid yellow;
+    max-width: 40%
+}
